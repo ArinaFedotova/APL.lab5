@@ -1,0 +1,11 @@
+/Users/arinafedotova/RiderProjects/Laba5/LinearAlgebra/obj/Debug/net7.0/LinearAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinafedotova/RiderProjects/Laba5/LinearAlgebra/obj/Debug/net7.0/LinearAlgebra.AssemblyInfoInputs.cache
+/Users/arinafedotova/RiderProjects/Laba5/LinearAlgebra/obj/Debug/net7.0/LinearAlgebra.AssemblyInfo.cs
+/Users/arinafedotova/RiderProjects/Laba5/LinearAlgebra/obj/Debug/net7.0/LinearAlgebra.csproj.CoreCompileInputs.cache
+/Users/arinafedotova/RiderProjects/Laba5/LinearAlgebra/bin/Debug/net7.0/LinearAlgebra.deps.json
+/Users/arinafedotova/RiderProjects/Laba5/LinearAlgebra/bin/Debug/net7.0/LinearAlgebra.dll
+/Users/arinafedotova/RiderProjects/Laba5/LinearAlgebra/bin/Debug/net7.0/LinearAlgebra.pdb
+/Users/arinafedotova/RiderProjects/Laba5/LinearAlgebra/obj/Debug/net7.0/LinearAlgebra.dll
+/Users/arinafedotova/RiderProjects/Laba5/LinearAlgebra/obj/Debug/net7.0/refint/LinearAlgebra.dll
+/Users/arinafedotova/RiderProjects/Laba5/LinearAlgebra/obj/Debug/net7.0/LinearAlgebra.pdb
+/Users/arinafedotova/RiderProjects/Laba5/LinearAlgebra/obj/Debug/net7.0/ref/LinearAlgebra.dll
